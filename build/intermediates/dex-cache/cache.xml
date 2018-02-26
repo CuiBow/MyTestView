@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e9a22ee2e198813e7a16abe08e17262d00b60bcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cuibowen/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.0/af000bec2036a2a9d07197c4b03b8966bfc60b03/rxjava-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/pre-dexed/debug/rxjava-1.3.0_d28c665497ee366d71e73bbdd8c44be2a93362b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cuibowen/.android/build-cache/d62484e6ff8ca40d24f20fd04cf4f6eab83d53a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/pre-dexed/debug/classes_b76bcbc33627cc1fe189c41ecd2e60949ef3d4ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cuibowen/.android/build-cache/b28cd0211e19224d866ff619f287a0535e9f0dfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/pre-dexed/debug/classes_b75e041c02f2717a2fb431c81859e5c3286c81c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1cbbd20e26d1d3c92b610f4f0191eb48fc55d3ae">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcbeffd4a1ad0c3ca9414e323b43d6b5824ea2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cuibowen/.android/build-cache/a865665ba78063e9102c163d98b7483676855199/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/pre-dexed/debug/classes_d02fdd975b11cf65e3dacbeab3a8aa02072cdae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cuibowen/.android/build-cache/88c40f08eae7d030d03bc4ce270690d6f3a6b694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/cuibowen/AndroidStudioProjects/Animation/app/build/intermediates/pre-dexed/debug/classes_b12ca97496533cb42ed81e68afb807a4230e7d3a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@mipmap/yao1"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao2"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao3"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao4"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao5"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao6"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao7"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao8"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao9"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao10"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao11"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao12"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao13"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao14"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao15"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao16"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao17"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao18"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao19"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao20"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao21"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao22"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao23"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao24"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao25"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao26"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao27"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao28"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao29"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao30"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao31"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao32"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao33"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao34"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao35"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao36"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao37"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao38"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao39"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao40"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao41"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao42"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao43"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao44"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao45"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao46"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao47"
+        android:duration="5" />
+    <item
+        android:drawable="@mipmap/yao48"
+        android:duration="5" />
+</animation-list>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<com.example.cuibowen.animation.imageviews.ShapeImageView
+    android:id="@+id/iv_video"
+    app:triangleTop="10dp"
+    app:lineWidth="10dp"
+    app:borderRadius="10dp"
+    android:src="@drawable/chunzheng"
+    app:type="1"
+    android:scaleType="centerCrop"
+    android:adjustViewBounds="true"
+    android:layout_width="100dp"
+    android:layout_height="150dp" />
+
+</LinearLayout>

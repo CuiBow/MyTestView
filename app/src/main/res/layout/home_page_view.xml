@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.cuibowen.animation.homeView.Main7Activity">
+
+
+    <ImageView
+
+        android:paddingRight="7dp"
+        android:src="@drawable/loadding_image"
+        android:layout_alignParentTop="true"
+        android:id="@+id/yao1"
+        android:layout_width="222dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        />
+    <com.example.cuibowen.animation.homeView.PhoneView
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/phone_view"
+        android:layout_width="143dp"
+        android:layout_height="293dp"></com.example.cuibowen.animation.homeView.PhoneView>
+
+    <FrameLayout
+        android:layout_marginTop="43dp"
+        android:layout_below="@+id/phone_view"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="170dp">
+        <Button
+            android:layout_marginRight="6dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/button"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/button_selector"
+            android:visibility="gone" />
+
+        <Button
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/shouzhi"
+            android:layout_width="153dp"
+            android:layout_height="133dp"
+            android:background="@drawable/shouzhi"
+            android:scaleType="centerCrop"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+</RelativeLayout>
